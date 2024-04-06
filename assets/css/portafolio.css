@@ -1,0 +1,17 @@
+body {
+  font-size: 4rem;
+}
+img {
+  max-width: 80vw;
+}
+
+table {
+  border: 1px solid greenyellow;
+  text-align: center;
+}
+tr {
+  border: 1px solid greenyellow;
+}
+td {
+  border: 1px solid greenyellow;
+}
